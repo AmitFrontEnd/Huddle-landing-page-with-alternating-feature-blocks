@@ -3,7 +3,7 @@
 This is a simple **Frontend Mentor** challenge for practice. The project is fully responsive and built using HTML and CSS.
 
 ## 🚀 Live Demo
-🔗 [View Live Site](https://amitkumar1590.github.io/Huddle-landing-page-with-alternating-feature-blocks/)
+🔗 [View Live Site](https://amitfrontend.github.io/Huddle-landing-page-with-alternating-feature-blocks/)
 
 ## 📌 Technologies Used
 - HTML
